@@ -1,0 +1,16 @@
+asgiref==3.6.0
+crispy-bootstrap5==0.7
+distlib==0.3.6
+Django==4.1.7
+django-bootstrap5==23.3
+django-crispy-forms==2.0
+django-tinymce==3.6.1
+filelock==3.10.2
+mysql-connector-python==8.0.33
+mysqlclient==2.1.1
+Pillow==10.0.1
+platformdirs==3.1.1
+sqlparse==0.4.3
+tzdata==2022.7
+virtualenv==20.21.0
+virtualenvwrapper-win==1.2.7
